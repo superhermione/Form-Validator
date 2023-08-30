@@ -12,4 +12,4 @@ checkPasswordsMatch() to match confirm password
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
 
-<img src="./assets/NewAccount walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="./assets/NewAccount Walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
